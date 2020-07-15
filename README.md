@@ -17,6 +17,6 @@ npm install
 # run serve
 npm start
 
-Browser access http://localhost:300
+Browser access http://localhost:3000
 
 ```
